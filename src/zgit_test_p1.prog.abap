@@ -10,3 +10,4 @@ WRITE: 'test git pws2'.
 WRITE: 'Issue 01'.
 WRITE: 'Issue 02'.
 WRITE: 'Resolved'.
+WRITE: 'retest'.
