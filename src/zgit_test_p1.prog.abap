@@ -12,3 +12,4 @@ WRITE: 'Issue 02'.
 WRITE: 'Resolved'.
 WRITE: 'retest'.
 WRITE: / 'CR Started'.
+WRITE: / 'CR completed'.
