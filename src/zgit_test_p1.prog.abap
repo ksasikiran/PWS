@@ -11,4 +11,6 @@ WRITE: 'Issue 01'.
 WRITE: 'Issue 02'.
 WRITE: 'Resolved'.
 WRITE: 'retest'.
-WRITE: / 'PRD_Issue_01'.
+WRITE: / 'CR Started'.
+WRITE: / 'CR completed'.
+WRITE: / 'PRD issue 02'.
